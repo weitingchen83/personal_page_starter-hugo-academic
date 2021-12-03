@@ -22,28 +22,38 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Ph.D. Program Research Scientist
+    company: ASUS Intelligent Cloud Services (AICS)
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: AICS
+    location: Taipei, Taiwan
+    date_start: 'Sep. 2020'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Responsibilities include: Develop solutions for medical imaging and publish research to highly competitive conference.
         
-        * Analysing
+<!--         * Analysing
         * Modelling
-        * Deploying
+        * Deploying -->
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Teaching Asistant
+    company: National Taiwan University
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: NTU
+    location: Taipei, Taiwan
+    date_start: 'Feb. 2018'
+    date_end: 'June. 2021'
+    description: Serve as several courses including Advanced Digital Signal Processing, Time-Frequency Analysis and Wavelet Transfrom, and Discrete Mathematics.
+    
+  - title: Intern
+    company: MediaTek Inc.
+    company_url: ''
+    company_logo: mediatek
+    location: Hsinchu, Taiwan
+    date_start: 'Jul. 2017'
+    date_end: 'Sep. 2017'
+    description: Summer Internship in department of Communication System Development.
+    
 
 design:
   columns: '2'
