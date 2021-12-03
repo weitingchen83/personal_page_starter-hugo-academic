@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: AICS
     location: Taipei, Taiwan
-    date_start: 'Sep. 2020'
+    date_start: '2020-09'
     date_end: ''
     description: Responsibilities include: Develop solutions for medical imaging and publish research to highly competitive conference.
         
@@ -36,8 +36,8 @@ experience:
     company_url: ''
     company_logo: NTU
     location: Taipei, Taiwan
-    date_start: 'Feb. 2018'
-    date_end: 'June. 2021'
+    date_start: '2018-02'
+    date_end: '2021-06'
     description: Serve as several courses including Advanced Digital Signal Processing, Time-Frequency Analysis and Wavelet Transfrom, and Discrete Mathematics.
     
   - title: Intern
@@ -45,8 +45,8 @@ experience:
     company_url: ''
     company_logo: mediatek
     location: Hsinchu, Taiwan
-    date_start: 'Jul. 2017'
-    date_end: 'Sep. 2017'
+    date_start: '2017-7'
+    date_end: '2017-9'
     description: Summer Internship in department of Communication System Development.
     
 
