@@ -71,8 +71,6 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
+My Chinese name is 陳韋廷. I am currently a Ph.D. candidate at the Graduate Institute of Electronic Engineering at National Taiwan University (NTU).  I am an incoming visiting student researcher at Stanford Computational Imaging Lab and collaborate with Prof. Gordon Wetzstein in 2022. My advisor is Prof. Sy-Yen Kuo, and I co-work with Prof. Jian-Jiun Ding and Prof. Yu-Chiang Frank Wang. Currently, I serve as a student research scientist at ASUS Intelligence Cloud Service. I received my Bachelor of Science degree at National Chiao Tung University (NCTU) in 2016, where I was supervised by Prof. Sheng-Chieh Huang and Ching-Cheng Chuang. I served as an exchange student in my senior year at Chalmers University of Technology, Sweden. I have lead several projects in the past three years, and I am a dynamic, easy-going, ambitious, open-minded and optimistic person.
+My research interests span the fields of Computational Photography, Image Processing, Computer Vision, Machine Learning (ML), Signal Processing, and Biomedical Signal Processing, particularly image restoration, re-identification, time-frequency analysis and wavelet transform, advanced digital signal processing, and optical imaging (NIRs).
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
