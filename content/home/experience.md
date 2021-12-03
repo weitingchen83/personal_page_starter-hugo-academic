@@ -29,12 +29,7 @@ experience:
     location: Taipei, Taiwan
     date_start: 'Sep. 2020'
     date_end: ''
-    description: |2-
-        Responsibilities include: Develop solutions for medical imaging and publish research to highly competitive conference.
-        
-<!--         * Analysing
-        * Modelling
-        * Deploying -->
+    description: Responsibilities include: Develop solutions for medical imaging and publish research to highly competitive conference.
         
   - title: Teaching Asistant
     company: National Taiwan University
