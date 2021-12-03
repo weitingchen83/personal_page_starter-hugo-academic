@@ -32,7 +32,7 @@ experience:
   - title: Ph.D. Program Research Scientist
     company: ASUS Intelligent Cloud Services (AICS)
     company_url: ''
-    company_logo: AICS
+    company_logo: AICS_logo_color
     location: Taipei, Taiwan
     date_start: '2020-09-01'
     date_end: '2021-09-01'
