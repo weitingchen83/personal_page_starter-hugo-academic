@@ -74,13 +74,4 @@ highlight_name: true
 My Chinese name is 陳韋廷. I am currently a Ph.D. candidate at the [**Graduate Institute of Electronic Engineering**](https://giee.ntu.edu.tw/portal/en/) at [**National Taiwan University (NTU)**](https://www.ntu.edu.tw/english/index.html). I am an incoming visiting student researcher at [**Stanford Computational Imaging Lab**](https://www.computationalimaging.org/) and collaborate with Prof. [**Gordon Wetzstein**](https://stanford.edu/~gordonwz/) in 2022. My advisor is Prof. [**Sy-Yen Kuo**](http://homepage.ntu.edu.tw/~sykuo/), and I co-work with Prof. [**Jian-Jiun Ding**](http://disp.ee.ntu.edu.tw/prof.php) and Prof. [**Yu-Chiang Frank Wang**](http://vllab.ee.ntu.edu.tw/ycwang.html). Currently, I serve as a student research scientist at [**ASUS Intelligence Cloud Service**](https://aics.asus.com/). I received my Bachelor of Science degree at [**National Chiao Tung University (NCTU)**](https://www.nctu.edu.tw/en) in 2016, where I was supervised by Prof. Sheng-Chieh Huang and Ching-Cheng Chuang. I served as an exchange student in my senior year at [**Chalmers University of Technology**](https://www.chalmers.se/en/Pages/default.aspx), Sweden. I have lead several projects in the past three years, and I am a dynamic, easy-going, ambitious, open-minded and optimistic person.
 My research interests span the fields of Computational Photography, Image Processing, Computer Vision, Machine Learning (ML), Signal Processing, and Biomedical Signal Processing, particularly image restoration, re-identification, time-frequency analysis and wavelet transform, advanced digital signal processing, and optical imaging (NIRs).
 
-
-
-
-
-[**abc**](https://)[**abc**](https://)
-
-
- at .  
-
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
