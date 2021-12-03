@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: NTU
     location: Taipei, Taiwan
-    date_start: 'Feb 2018'
-    date_end: 'Jun 2021'
+    date_start: '2018-02-02'
+    date_end: '2021-06-30'
     description: Serve as several courses including Advanced Digital Signal Processing, Time-Frequency Analysis and Wavelet Transfrom, and Discrete Mathematics.
     
   - title: Intern
@@ -36,8 +36,8 @@ experience:
     company_url: ''
     company_logo: mediatek
     location: Hsinchu, Taiwan
-    date_start: 'Jul 2017'
-    date_end: 'Sep 2017'
+    date_start: '2017-07-01'
+    date_end: '2017-09-01'
     description: Summer Internship in department of Communication System Development.
     
 
