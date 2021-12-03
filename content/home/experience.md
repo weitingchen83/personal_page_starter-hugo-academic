@@ -28,7 +28,7 @@ experience:
     company_logo: AICS
     location: Taipei, Taiwan
     date_start: '2020-09'
-    date_end: ''
+    date_end: '2020-09'
     description: Responsibilities include: Develop solutions for medical imaging and publish research to highly competitive conference.
         
   - title: Teaching Asistant
