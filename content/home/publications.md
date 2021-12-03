@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent Publications
+title: Publications
 subtitle: ''
 
 content:
@@ -23,10 +23,10 @@ content:
   order: desc
   # Filter on criteria
   filters:
-    tag: ''
-    category: ''
-    publication_type: ''
-    author: ''
+    tag: '111'
+    category: '222'
+    publication_type: '333'
+    author: '4444'
     exclude_featured: true
 design:
   # Choose a view for the listings:
