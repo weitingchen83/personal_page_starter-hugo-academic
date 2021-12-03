@@ -29,7 +29,7 @@ experience:
     company_logo: AICS
     location: Taipei, Taiwan
     date_start: '2020-09-01'
-    date_end: ''
+    date_end: '2021-09-01'
     description: Responsibilities include: Develop solutions for medical imaging and publish research to highly competitive conference.
 
 
