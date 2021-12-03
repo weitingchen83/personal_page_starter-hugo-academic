@@ -32,7 +32,7 @@ education:
   - course: Msc in Electronic Engineering
     institution: National Taiwan University, Taiwan
     year: 2016
-  - course: Visiting Studetn
+  - course: Visiting Student
     institution: Chalmers University of Technology, Sweden
     year: 2016
   - course: BSc in Electrical Computer Engineering
