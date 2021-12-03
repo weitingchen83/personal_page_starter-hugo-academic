@@ -22,16 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
- 
-  - title: Ph.D. Program Research Scientist
+   - title: Ph.D. Program Research Scientist
     company: ASUS Intelligent Cloud Services (AICS)
     company_url: ''
     company_logo: AICS
     location: Taipei, Taiwan
     date_start: '2020-09-01'
     date_end: '2021-09-01'
-    description: Responsibilities include: Develop solutions for medical imaging and publish research to highly competitive conference.
-
+    description: Develop solutions for medical imaging and publish research to highly competitive conference.
 
   - title: Teaching Asistant
     company: National Taiwan University
