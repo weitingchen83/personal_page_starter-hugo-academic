@@ -29,8 +29,7 @@ experience:
     date_start: '2017-01-01'
     date_end: ''
     description:
-    
-   - title: Ph.D. Program Research Scientist
+  - title: Ph.D. Program Research Scientist
     company: ASUS Intelligent Cloud Services (AICS)
     company_url: ''
     company_logo: AICS
